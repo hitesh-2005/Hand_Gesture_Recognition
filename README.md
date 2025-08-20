@@ -1,4 +1,4 @@
-# ✋🖐️ Hand Gesture Recognition | Machine Learning Internship @ Prodigy Infotech
+# ✋🖐️ Hand Gesture Recognition 
 
 This project aims to develop a model that can classify different **hand gestures** using near-infrared images captured via the **Leap Motion Controller**. This task demonstrates practical applications of computer vision in human-computer interaction.
 
@@ -38,8 +38,8 @@ Edit
 
 ## 📦 Project Structure
 
-PRODIGY_ML_04/
-├── Prodigy04.ipynb # Main Jupyter notebook for preprocessing, training, and evaluation
+Hand_Gesture_Recognition/
+├── HandGestureRec.ipynb # Main Jupyter notebook for preprocessing, training, and evaluation
 ├── LeapGestureDataset/ # Dataset folders as described above
 ├── model/ # (Optional) Saved models or checkpoints
 └── README.md # Project documentation
