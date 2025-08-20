@@ -39,7 +39,7 @@ Edit
 ## 📦 Project Structure
 
 Hand_Gesture_Recognition/
-├── HandGestureRec.ipynb # Main Jupyter notebook for preprocessing, training, and evaluation
+├── HandGestureRecog.ipynb # Main Jupyter notebook for preprocessing, training, and evaluation
 ├── LeapGestureDataset/ # Dataset folders as described above
 ├── model/ # (Optional) Saved models or checkpoints
 └── README.md # Project documentation
@@ -66,7 +66,7 @@ Edit
 ## 🚀 How to Run
 
 1. **Download and unzip** the dataset into the `LeapGestureDataset/` directory.
-2. **Open** the `Prodigy04.ipynb` notebook.
+2. **Open** the `HandGestureRecog.ipynb` notebook.
 3. **Follow the steps** to:
    - Load and preprocess images (resize, grayscale conversion, etc.)
    - Encode gesture labels
