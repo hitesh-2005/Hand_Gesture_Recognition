@@ -1,4 +1,4 @@
-# ✋🖐️ Task 4 – Hand Gesture Recognition | Machine Learning Internship @ Prodigy Infotech
+# ✋🖐️ Hand Gesture Recognition | Machine Learning Internship @ Prodigy Infotech
 
 This project aims to develop a model that can classify different **hand gestures** using near-infrared images captured via the **Leap Motion Controller**. This task demonstrates practical applications of computer vision in human-computer interaction.
 
